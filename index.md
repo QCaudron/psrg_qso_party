@@ -4,6 +4,8 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 **The PSRG QSO Party will begin on June 1st, 0000 UTC, and end on June 30th, 2359 UTC.**
 
+Here our the [slides](https://docs.google.com/presentation/d/19dAhD06Nr3TLVboV3rWH8_sFqZFZvrrdccscrZ6C68Y/edit?usp=sharing) from the announcement.
+
 
 
 ## Rules
@@ -18,9 +20,11 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 ## Example exchange
 
+This is a minimal contact, which includes the required name, RS(T), and grid square exchange. Feel free to chat about anything and everything !
+
 - **Station 1** : CQ PSRG, CQ PSRG. This is K7DRQ, calling CQ PSRG.
 - **Station 2** : K7DRQ, this is KI7RMU.
-- **Station 1** : KI7RMU, this is K7DRQ. You’re coming in loud and clear, you’re a 5 by 9. My name is Quentin, and I’m located in CN87sg. Back to you KI7RMU.
+- **Station 1** : KI7RMU, this is K7DRQ. You’re coming in loud and clear, you’re a 5 by 9. My name is Quentin, and I’m located in CN87sg. Back to you, KI7RMU.
 - **Station 2** : Hi Quentin, I’m Jack. You’re a little in the noise, you’re probably 3 by 5. My grid square is CN87uq. How do you copy ?
 - **Station 1** : Thanks Jack, full copy. Thanks for the contact, and 73 ! KI7RMU, this is K7DRQ.
 - **Station 2** : Sounds good ! Wishing you 73, K7DRQ, from KI7RMU. I’ll be clear.
@@ -55,4 +59,4 @@ Logs must be returned to [K7DRQ](mailto:k7drq@psrg.org) by July 15th to qualify.
 
 ## Prizes
 
-The top five stations will each receive a gift card, courtesy of the PSRG !
+The top five stations will each receive a gift card, courtesy of the PSRG ! Keep an eye on this website for a leaderboard.
