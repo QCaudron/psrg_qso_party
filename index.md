@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## PSRG QSO Party
 
-You can use the [editor on GitHub](https://github.com/QCaudron/psrg_qso_party/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The **PSRG QSO Party** is a month-long event to encourage contact between members of the Puget Sound Repeater Group outside of nets and without the use of the repeater, thereby practicing and promoting the radio art and building our community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The PSRG QSO Party will begin on June 1st, 0000 UTC, and end on June 30th, 2359 UTC.**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Rules
 
-# Header 1
-## Header 2
-### Header 3
+1. **Eligibility**. All members of the Puget Sound Repeater Group are eligible to participate. 
+2. **Exchange**. The exchange must include your name, an [RS(T) signal report](https://en.wikipedia.org/wiki/R-S-T_system), and your six-character [grid square](https://www.levinecentral.com/ham/grid_square.php). 
+3. **Modes**. Contacts must be made between two members of the PSRG, in simplex mode (without the use of any repeater), on any band and in any mode. 
+4. **Internet and digital contacts**. Echolink, Allstar, DMR, and DSTAR contacts are valid so long as they are direct, and not via a repeater, link, or conference. Most digital contacts are fine, except unfortunately FT8, as names and RST are not exchanged.
+5. **Skeds**. Arranging your QSO beforehand, on the repeater or otherwise, is perfectly fine. However, contacts on the Double Nickel Simplex Net don’t count, as they are part of a net and not standard simplex contacts.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Example exchange
 
-[Link](url) and ![Image](src)
-```
+- **Station 1** : CQ PSRG, CQ PSRG. This is K7DRQ, calling CQ PSRG.
+- **Station 2** : K7DRQ, this is KI7RMU.
+- **Station 1** : KI7RMU, this is K7DRQ. You’re coming in loud and clear, you’re a 5 by 9. My name is Quentin, and I’m located in CN87sg. Back to you KI7RMU.
+- **Station 2** : Hi Quentin, I’m Jack. You’re a little in the noise, you’re probably 3 by 5. My grid square is CN87uq. How do you copy ?
+- **Station 1** : Thanks Jack, full copy. Thanks for the contact, and 73 ! KI7RMU, this is K7DRQ.
+- **Station 2** : Sounds good ! Wishing you 73, K7DRQ, from KI7RMU. I’ll be clear.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QCaudron/psrg_qso_party/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Scoring
 
-### Support or Contact
+- **One point** is awarded per unique contact, per band, per mode.
+- **Two points** are awarded per six-character grid square you make contact with.
+- **Two points** are awarded when you check into the [Monday Night PSRG Net](https://web.psrg.org/nets/).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### Logging
+
+Logs should contain :
+
+- **exchange info** (other station’s callsign, name, grid square, and their RST report for you)
+- **band and mode** information
+- **the date and time** ( in UTC ) of the contact. 
+
+To make it easier to tally points and merge everyone’s logs, please use a spreadsheet for logging. You’re very welcome to use any logger program you prefer, if it can output to CSV or Excel formats. Send logs to [k7drq@psrg.org](mailto:k7drq@psrg.org) for scoring ! The leaderboard will be updated regularly.
+
+Logs must be returned to [K7DRQ](mailto:k7drq@psrg.org) by July 15th to qualify.
+
+
+
+### Prizes
+
+The top five stations will each receive a gift card, courtesy of the PSRG !
