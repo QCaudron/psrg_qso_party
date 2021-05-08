@@ -43,6 +43,10 @@ Logs should contain :
 - **band and mode** information
 - **the date and time** ( in UTC ) of the contact. 
 
+Here's an example log.
+
+<img src="log_example.jpg" />
+
 To make it easier to tally points and merge everyone’s logs, please use a spreadsheet for logging. You’re very welcome to use any logger program you prefer, if it can output to CSV or Excel formats. Send logs to [k7drq@psrg.org](mailto:k7drq@psrg.org) for scoring ! The leaderboard will be updated regularly.
 
 Logs must be returned to [K7DRQ](mailto:k7drq@psrg.org) by July 15th to qualify.
