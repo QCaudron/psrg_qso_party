@@ -1,4 +1,4 @@
-## PSRG QSO Party
+# PSRG QSO Party
 
 The **PSRG QSO Party** is a month-long event to encourage contact between members of the Puget Sound Repeater Group outside of nets and without the use of the repeater, thereby practicing and promoting the radio art and building our community.
 
@@ -6,7 +6,7 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 
 
-### Rules
+## Rules
 
 1. **Eligibility**. All members of the Puget Sound Repeater Group are eligible to participate. 
 2. **Exchange**. The exchange must include your name, an [RS(T) signal report](https://en.wikipedia.org/wiki/R-S-T_system), and your six-character [grid square](https://www.levinecentral.com/ham/grid_square.php). 
@@ -16,7 +16,7 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 
 
-### Example exchange
+## Example exchange
 
 - **Station 1** : CQ PSRG, CQ PSRG. This is K7DRQ, calling CQ PSRG.
 - **Station 2** : K7DRQ, this is KI7RMU.
@@ -27,7 +27,7 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 
 
-### Scoring
+## Scoring
 
 - **One point** is awarded per unique contact, per band, per mode.
 - **Two points** are awarded per six-character grid square you make contact with.
@@ -35,7 +35,7 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 
 
-### Logging
+## Logging
 
 Logs should contain :
 
@@ -49,6 +49,6 @@ Logs must be returned to [K7DRQ](mailto:k7drq@psrg.org) by July 15th to qualify.
 
 
 
-### Prizes
+## Prizes
 
 The top five stations will each receive a gift card, courtesy of the PSRG !
