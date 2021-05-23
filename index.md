@@ -12,8 +12,8 @@ Here our the [slides](https://docs.google.com/presentation/d/19dAhD06Nr3TLVboV3r
 
 1. **Eligibility**. All members of the Puget Sound Repeater Group are eligible to participate. 
 2. **Exchange**. The exchange must include your name, an [RS(T) signal report](https://en.wikipedia.org/wiki/R-S-T_system), and your six-character [grid square](https://www.levinecentral.com/ham/grid_square.php). 
-3. **Modes**. Contacts must be made between two members of the PSRG, in simplex mode (without the use of any repeater), on any band and in any mode. 
-4. **Internet and digital contacts**. Echolink, Allstar, DMR, and DSTAR contacts are valid so long as they are direct, and not via a repeater, link, or conference. Most digital contacts are fine, except unfortunately FT8, as names and RST are not exchanged.
+3. **Modes**. Contacts must be made between two members of the PSRG, in simplex mode (without the use of any repeater), on any band and in any mode.
+4. **Internet and digital contacts**. Echolink, Allstar, DMR, and DSTAR contacts are valid so long as they are direct, and not via a repeater, link, or conference. Most digital contacts are fine, except unfortunately FT8, as names and RST are not exchanged. See the [FAQ](#faq) for more information on digital modes.
 5. **Skeds**. Arranging your QSO beforehand, on the repeater or otherwise, is perfectly fine. However, contacts on the Double Nickel Simplex Net don’t count, as they are part of a net and not standard simplex contacts.
 
 
@@ -60,3 +60,14 @@ Logs must be returned to [K7DRQ](mailto:k7drq@psrg.org) by July 15th to qualify.
 ## Prizes
 
 The top five stations will each receive a gift card, courtesy of the PSRG ! Keep an eye on this website for a leaderboard.
+
+
+
+
+## <a name="appendix"></a> FAQ
+
+#### Digital modes
+
+- The various digital modes that allow the complete exchange to be done are allowed. These include PSK, RTTY, Olivia, Hellschreiber and similar modes which allow input from your keyboard.
+- There are digital modes with automated exchanges, like FT8; these do not support the complete exchange required for this QSO Party and are therefore not accepted.
+- The various mode derivatives ( PSK31, PSK63, PSK125; or Feld Hell, Slow Hell, Feld Hell X9; etc. ) count as a single mode for the purpose of the QSO Party; in the Mode column of your log, simply list the main type of mode ( "PSK", "Hellschreiber", etc. ). A contact using PSK31 and another using PSK63 with the same station will not count as two contacts.
