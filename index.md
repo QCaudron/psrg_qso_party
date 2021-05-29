@@ -2,7 +2,7 @@
 
 The **PSRG QSO Party** is a month-long event to encourage contact between members of the Puget Sound Repeater Group outside of nets and without the use of the repeater, thereby practicing and promoting the radio art and building our community.
 
-**The PSRG QSO Party will begin on June 1st, 0000 UTC, and end on June 30th, 2359 UTC.**
+**The PSRG QSO Party will begin on June 1st at midnight Pacific time, and end on June 30th at midnight Pacific time.**
 
 Here our the [slides](https://docs.google.com/presentation/d/19dAhD06Nr3TLVboV3rWH8_sFqZFZvrrdccscrZ6C68Y/edit?usp=sharing) from the announcement.
 
@@ -45,7 +45,7 @@ Logs should contain :
 
 - **exchange info** (other station’s callsign, name, grid square, and their RST report for you)
 - **band and mode** information
-- **the date and time** ( in UTC ) of the contact. 
+- **the date and time** ( in Pacific time or in UTC ) of the contact. 
 
 Here's an example log.
 
