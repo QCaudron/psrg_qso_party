@@ -2,6 +2,8 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 
 **The PSRG QSO Party will begin on July 23rd at midnight Pacific time, and end on August 23rd at midnight.**
 
+See our [slide deck](https://docs.google.com/presentation/d/19dAhD06Nr3TLVboV3rWH8_sFqZFZvrrdccscrZ6C68Y/edit?usp=sharing) for the announcement.
+
 
 # Rules
 
