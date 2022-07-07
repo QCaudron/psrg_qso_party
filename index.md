@@ -26,12 +26,12 @@ This is a minimal contact, which includes the required name, RS(T), and grid squ
 - **Station 2** : Sounds good ! Wishing you 73, K7DRQ, from KI7RMU. I’ll be clear.
 
 
-## Scoring
+# Scoring
 
 **One point** is awarded per unique contact, per band, per mode. If you contact the same person on another band, or using a different mode, you score another point !
 
 
-## Logging
+# Logging
 
 Logs should contain :
 
@@ -47,13 +47,12 @@ As an example :
 | July 24, 2022 | 17:02 | KD7DK    | Doug | -7  | 20m  | FT8  |
 | July 29, 2022 | 08:51 | K2RNA    | Ryan | 559 | 30m  | CW   |
 
+To make it easier to tally points and merge everyone’s logs, please use a spreadsheet for logging. You’re very welcome to use any logger program you prefer, if it can output to CSV or Excel formats. You are welcome to copy [this log template](https://docs.google.com/spreadsheets/d/1n13bcPpxoyOSDa0yK9lEQ_deU9bA2bB2_maWWsNqK80/edit?usp=sharing) to get started.
 
-To make it easier to tally points and merge everyone’s logs, please use a spreadsheet for logging. You’re very welcome to use any logger program you prefer, if it can output to CSV or Excel formats. Send logs to [k7drq@psrg.org](mailto:k7drq@psrg.org) for scoring ! 
-
-After the contest, a leaderboard will be published. Logs must be returned to K7DRQ by August 3rd to qualify.
+Send logs to [k7drq@psrg.org](mailto:k7drq@psrg.org) for scoring ! After the contest, a leaderboard will be published. Logs must be returned to K7DRQ by August 3rd to qualify.
 
 
-## Prizes
+# Prizes
 
 The top five stations will each receive a gift card, courtesy of the PSRG ! Keep an eye on this website for a leaderboard.
 
