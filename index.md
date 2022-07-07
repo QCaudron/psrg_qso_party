@@ -3,17 +3,16 @@ The **PSRG QSO Party** is a month-long event to encourage contact between member
 **The PSRG QSO Party will begin on July 23rd at midnight Pacific time, and end on August 23rd at midnight.**
 
 
-## Rules
+# Rules
 
 1. **Eligibility**. All members of the Puget Sound Repeater Group are eligible to participate. 
 2. **Exchange**. The exchange must include your name and an [RS(T) signal report](https://en.wikipedia.org/wiki/R-S-T_system).
 3. **Modes**. Contacts must be made between two members of the PSRG, in simplex mode (without the use of any repeater), on any band and in any mode.
-4. **Internet and digital contacts**. Echolink, Allstar, DMR, and DSTAR contacts are valid so long as they are direct, and not via a repeater, link, or conference. Digital contacts are fine as long as the exchange includes name and RST. For example, with FT8, this means moving away from the normal macros and including your name; the FT8 signal report is fine.
+4. **Internet and digital contacts**. Echolink, Allstar, DMR, and DSTAR contacts are valid so long as they are direct, and not via a repeater, link, or conference. Digital contacts are fine as long as the exchange includes name and RST. For example, with FT8, this means moving away from the standard macros and including your name (the FT8 signal report is fine).
 5. **Skeds**. Arranging your QSO beforehand, on the repeater or otherwise, is perfectly fine. However, contacts on the Double Nickel Simplex Net don’t count, as they are part of a net and not standard simplex contacts.
 
 
-
-## Example exchange
+# Example exchange
 
 This is a minimal contact, which includes the required name, RS(T), and grid square exchange. Feel free to chat about anything and everything !
 
@@ -25,11 +24,9 @@ This is a minimal contact, which includes the required name, RS(T), and grid squ
 - **Station 2** : Sounds good ! Wishing you 73, K7DRQ, from KI7RMU. I’ll be clear.
 
 
-
 ## Scoring
 
-**One point** is awarded per unique contact, per band, per mode.
-
+**One point** is awarded per unique contact, per band, per mode. If you contact the same person on another band, or using a different mode, you score another point !
 
 
 ## Logging
@@ -43,22 +40,20 @@ Logs should contain :
 As an example :
 
 | Date          | Time  | Callsign | Name | RST | Band | Mode |
-|:--------------|:------|:---------|:-----|----:|:-----|:-----|
+|:--------------|:------|:---------|:-----|----:|-----:|:-----|
 | July 23, 2022 | 11:32 | KI7RMU   | Jack | 59  | 2m   | FM   |
 | July 24, 2022 | 17:02 | KD7DK    | Doug | -7  | 20m  | FT8  |
 | July 29, 2022 | 08:51 | K2RNA    | Ryan | 559 | 30m  | CW   |
 
 
-To make it easier to tally points and merge everyone’s logs, please use a spreadsheet for logging. You’re very welcome to use any logger program you prefer, if it can output to CSV or Excel formats. Send logs to [k7drq@psrg.org](mailto:k7drq@psrg.org) for scoring ! The [leaderboard](leaderboard) will be updated regularly.
+To make it easier to tally points and merge everyone’s logs, please use a spreadsheet for logging. You’re very welcome to use any logger program you prefer, if it can output to CSV or Excel formats. Send logs to [k7drq@psrg.org](mailto:k7drq@psrg.org) for scoring ! 
 
-Logs must be returned to K7DRQ by August 3rd to qualify.
+After the contest, a leaderboard will be published. Logs must be returned to K7DRQ by August 3rd to qualify.
 
 
 ## Prizes
 
 The top five stations will each receive a gift card, courtesy of the PSRG ! Keep an eye on this website for a leaderboard.
 
-
-
-
+Last year's top prize went to Ron, NR7O. Congrats, Ron !
  
