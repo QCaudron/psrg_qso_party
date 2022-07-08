@@ -1,8 +1,6 @@
-The **PSRG QSO Party** is a weekend-long event to encourage contact between members of the Puget Sound Repeater Group outside of nets and without the use of the repeater, thereby practicing and promoting the radio art and building our community.
+The PSRG QSO Party is a weekend-long event to encourage contact between members of the Puget Sound Repeater Group outside of nets and without the use of the repeater, thereby practicing and promoting the radio art and building our community.
 
-> **The PSRG QSO Party will begin on July 30th at 00:00, and end on July 31st at 23:59, Pacific time.**
-
-See our [slide deck](https://docs.google.com/presentation/d/19dAhD06Nr3TLVboV3rWH8_sFqZFZvrrdccscrZ6C68Y/edit?usp=sharing) for the announcement.
+**The PSRG QSO Party will begin on July 30th at 00:00, and end on July 31st at 23:59, Pacific time.**
 
 # Rules
 
