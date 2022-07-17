@@ -5,10 +5,10 @@ The PSRG QSO Party is a weekend-long event to encourage contact between members 
 # Rules
 
 1. **Eligibility**. All members of the Puget Sound Repeater Group are eligible to participate.
-2. **Exchange**. The exchange must include your name and a signal report (such as [RST](https://en.wikipedia.org/wiki/R-S-T_system) or [CM](https://en.wikipedia.org/wiki/Circuit_Merit)).
+2. **Exchange**. The exchange must include your name and some kind of signal report (such as [RST](https://en.wikipedia.org/wiki/R-S-T_system) or [CM](https://en.wikipedia.org/wiki/Circuit_Merit), we aren't picky).
 3. **Bands and Modes**. All bands, all modes -- as long as it's simplex. [See the FAQ](#faq) for details.
 
-# Example exchange
+### Example exchange
 
 This is a minimal contact, which includes the required name and signal report. Feel free to chat about anything and everything, though! The goal is to have a conversation.
 
@@ -68,15 +68,15 @@ Last year's top prize went to Ron, NR7O. Congrats, Ron!
 # FAQ
 
 What qualifies as a contact?
-: Any contact that is direct, and not via a repeater, is valid. The simplest is of course FM simplex on an HT or base station, but HF also works great. Almost all modes
-: In the spirit of including our more distant friends, we welcome the use of Echolink and Allstar -- as long as these contacts are made direct (node to node), and not via, say, the PSRG node or DoDropIn systems.
+: Any contact that is direct, and not via a repeater, is valid. The simplest is of course FM simplex on an HT or base station, but HF also works great. Almost all modes are valid, as long as things are simplex or direct.
+: In the spirit of including our more distant friends, we welcome the use of Echolink and Allstar -- as long as these contacts are made direct (node to node), and not via, say, the PSRG node or DoDropIn systems. Via both Echolink and Allstar, it's possible to connect to someone's node directly, and that will work great for this contest.
 
 Can I use digital modes?
 : You sure can -- any mode that allows you to exchange your name and some kind of signal report. This means that almost all digital modes that allow longer messages to be exchanged will work great. JS8Call, PSK31, RTTY, Olivia, and Packet are all good options. Maybe arrange a sked and try something new!
 : FT8 *does not really allow this exchange*, and [custom messages are likely to not be correctly interpreted by WSJT-X](https://www.physics.princeton.edu/pulsar/K1JT/FT8_Operating_Tips.pdf), so sadly, FT8 is not allowed in this QSO Party.
 
 Can I arrange a contact beforehand ?
-: Yes, skeds are perfectly okay! Arranging your QSO beforehand, on the repeater or otherwise, is perfectly fine. However, contacts on the Double Nickel Simplex Net don’t count, as they are part of a net and not standard simplex contacts.
+: Yes, skeds are perfectly okay! Arranging your QSO beforehand, on the repeater or otherwise, is perfectly fine. However, contacts on the Double Nickel Simplex Net don’t count, as they are part of a net and not standard simplex contacts. This also makes sure Dan KB7RYY doesn't automatically win as net host!
 
 Where can I go to arrange contacts ?
 : If you're on the [PSRG Discussion Group](https://www.facebook.com/groups/ww7psr), that might be a great place to arrange a sked. Otherwise, maybe mention on a net that you're looking for some skeds, and connect with people after the net or via email.
