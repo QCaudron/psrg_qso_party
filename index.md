@@ -10,7 +10,7 @@ The PSRG QSO Party is a weekend-long event to encourage contact between members 
 
 ### Example exchange
 
-This is a minimal contact, which includes the required name and signal report. Feel free to chat about anything and everything, though! The goal is to have a conversation.
+This is a minimal contact that you might see on 2m FM; it includes the required name and signal report. Feel free to chat about anything and everything, though! The goal is to have a conversation.
 
 - **Station 1** : CQ PSRG, CQ PSRG. This is K7DRQ, calling CQ PSRG.
 - **Station 2** : K7DRQ, this is KI7RMU.
